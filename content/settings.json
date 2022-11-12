@@ -1,10 +1,10 @@
 {
   "domain": "kingimportados.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#125ff9",
+  "primary_color": "#0d5cf9",
   "theme": {
-    "bootswatch": "darkly",
-    "custom": "_"
+    "bootswatch": "cosmo",
+    "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/kingimportados",
