@@ -1,26 +1,26 @@
 {
   "domain": "kingimportados.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#0d5cf9",
+  "primary_color": "#1a1c1c",
   "theme": {
-    "bootswatch": "cosmo",
-    "custom": "ecom-beauty"
+    "bootswatch": "cerulean",
+    "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#ebc621",
   "repository": "ecomplus-stores/kingimportados",
-  "logo": "/img/uploads/599679cc-ed21-4437-8fed-32d67864f237.jpg",
+  "logo": "/img/uploads/9c19a969-2017-413e-92c3-59506c9545ed.jpg",
   "name": "KING IMPORTADOS",
-  "short_name": "kingimportados",
+  "short_name": "KING IMPORTADOS",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Open Sans",
   "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "icons_font": "bootstrap-icons",
   "country_code": "BR",
-  "secondary_color": "#ffffff",
+  "secondary_color": "#1d1c1c",
   "icon": "/img/icon.png",
   "store_id": 40923,
-  "description": "kingimportados",
+  "description": "Loja Virtual  de perfumes e eletrônicos, trabalhando com grandes marcas e sempre com produtos originais e de procedência. ",
   "large_icon": "/img/large-icon.png"
 }
