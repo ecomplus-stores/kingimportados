@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 50%!",
     "link": "/promotion",
-    "color": "#17d6ed"
+    "color": "#17d6ed",
+    "background": "#f9f9f5"
   },
   "contacts_stripe": {
     "pages": [],
