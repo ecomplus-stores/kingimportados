@@ -21,6 +21,11 @@
           "img": "/img/uploads/4.jpg",
           "alt": "Banner sample two",
           "mobile_img": "/img/uploads/4.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/1.jpg"
         }
       ]
     },
