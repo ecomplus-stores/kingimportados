@@ -31,7 +31,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "622df7798bd0103c54f26a4f:categories:PERFUMES FEMININOS:/perfumes-femininos",
       "sort": "sales",
       "title": "",
       "headless": false,
@@ -42,6 +42,11 @@
       "type": "page-title",
       "title": "",
       "description": "Loja Virtual  de perfumes e eletrônicos, trabalhando com grandes marcas e sempre com produtos originais."
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     }
   ]
 }
