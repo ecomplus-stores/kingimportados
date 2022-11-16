@@ -51,6 +51,11 @@
       "type": "page-title",
       "title": "",
       "description": "Loja Virtual  de perfumes e eletrônicos, trabalhando com grandes marcas e sempre com produtos originais."
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     }
   ]
 }
