@@ -37,7 +37,7 @@
       "collection_id": "622df7798bd0103c54f26a4f:categories:PERFUMES FEMININOS:/perfumes-femininos",
       "sort": "views",
       "title": "",
-      "headless": true,
+      "headless": false,
       "limit": 12,
       "page": 4
     },
@@ -47,7 +47,15 @@
       "limit": 12,
       "page": 1,
       "collection_id": "622e864c8bd0103c54f34e7f:categories:PERFUMES MASCULINOS:/perfumes-masculinos",
-      "sort": "lowest_price",
+      "sort": "offers"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "622df7798bd0103c54f26a4f:categories:PERFUMES FEMININOS:/perfumes-femininos",
+      "sort": "views",
       "headless": true
     },
     {
